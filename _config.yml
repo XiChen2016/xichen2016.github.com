@@ -1,0 +1,60 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+
+# Site settings
+title: "Chen Xi"
+description: > # this means to ignore newlines until "email:"
+   Web Developer @ ThoughtWorks
+
+email: xichen2016@gmail.com
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/blog_cover.jpg"
+
+name: 'Chen Xi'
+author: 'Chen Xi'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "xichen2016.github.io" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+#  - icon:	twitter
+#    url:	https://twitter.com/dirkfabisch
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/xichen2016
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	linkedin
+    url:	https://www.linkedin.com/in/xichen2016
+    desc:	Linkedin
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
