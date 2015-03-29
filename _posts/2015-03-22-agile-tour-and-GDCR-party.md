@@ -3,9 +3,8 @@ layout: post
 title: "2015全国敏捷之旅及GDCR组织者聚会总结"
 category: summary
 tags: agile tour, GDCR
+image: /assets/article_images/2015-03-22-agile-tour-and-GDCR-party/cover.jpg
 ---
-
-Hi all,
 
 3月15号，也就是上周六，来自北京、上海、深圳、杭州、西安等全国10多个城市的60多位敏捷之旅以及GDCR(Global Day of Code Retreat)组织者齐聚蓉城-成都，作为2014年GDCR西安站的组织者，王磊，赵国庆和我参加了这次活动。
 这是本人第一次参加这种活动，一想到要面见各地的社区达人，去之前心里还有点小激动。整个活动的日程安排非常紧凑，两天下来感觉还是有些累的，不过收获颇多，借这个总结记录一下。
