@@ -25,8 +25,8 @@ $(function() {
         }
         return len;
     }
-    $('.post-excerpt').each(function() {
-        traverse($(this), 0, 200);
-        $(this).after('...');
+    $('.article-item').find("p").each(function() {
+        traverse($(this), 0, 365);
+        $(this).append('...');
     });
 });
