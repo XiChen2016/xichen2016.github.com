@@ -2,7 +2,7 @@
 layout: post
 title: "2015全国敏捷之旅及GDCR组织者聚会总结"
 category: summary
-tags: agile tour, GDCR
+tags: agile tour, GDCR, code retreat, 敏捷之旅
 image: /assets/article_images/2015-03-22-agile-tour-and-GDCR-party/cover.jpg
 ---
 

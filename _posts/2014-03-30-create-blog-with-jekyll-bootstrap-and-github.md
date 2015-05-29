@@ -2,7 +2,7 @@
 layout: post
 title: "用jekyll bootstrap在github上快速搭建个人博客"
 category: tutorial
-tags: jekyll, bootstrap, github
+tags: jekyll, bootstrap, github, 个人博客
 ---
 
 ### 1. 创建Repository

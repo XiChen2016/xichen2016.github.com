@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rom-sql入门"
+title: "如何使用rom-sql"
 category: tutorial
 tags: ruby, rom-sql
 ---
