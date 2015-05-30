@@ -121,5 +121,4 @@ result: one 代表我们通过这个command每次只能创建一条记录。vali
 	
 	rom.command(:offices).create.call(attr)
 <br>
-<br>
 更多用法，建议参考rom源代码中的测试代码. :)

@@ -129,7 +129,7 @@ tags: microservice, contracts test, pact
 
     运行ProductServiceClient的测试会在配置的pact目录下(默认是 spec/pacts)生成一个pact文件。日志会被输出到配置的log目录下(默认是log)。
     
-    当然，上面的测试会挂掉，因为我们还没有实现ProductServiceClient的get_product方法。那么接下来我们就来实现ProductServiceClient。
+    当然，上面的测试会挂掉，因为我们还没有实现ProductServiceClient的`get_product`方法。那么接下来我们就来实现ProductServiceClient。
 
 6. 实现Product Service Client的消费者方法
 
@@ -158,7 +158,7 @@ tags: microservice, contracts test, pact
         # In Rakefile
         require 'pact/tasks'
     
-    创建pact_helper.rb，推荐的路径是spec/service_consumers/pact_helper.rb
+    创建`pact_helper.rb`, 推荐的路径是`spec/service_consumers/pact_helper.rb`
     
         # In specs/service_consumers/pact_helper.rb
         
