@@ -80,7 +80,7 @@ tags: microservice
 
 为了让大家在阅读详细步骤之前对我们要做的事情有个结构性的认识，我们首先进行一个简单的tasking，也就是列出to-do list，步骤如下：
 
-
+<img src="/assets/article_images/2015-05-22-how-to-build-a-service/todo.jpg" />
 
 由上图可以看出，第一步，我们需要定义model，model通常是用来存放业务模型，譬如对当前例子而言，模型很简单，就是一个Product类，具有一些属性，如下所示：
 
@@ -438,6 +438,7 @@ PagerDuty是一款能够在服务器出问题时发送提醒的软件。在发�
 
 登录NewRelic的控制台，点击 “Browser” -> “Alerts” -> “Channels and groups”。
 
+<img src="/assets/article_images/2015-05-22-how-to-build-a-service/newrelic.jpg" />
 
 接下来，点击“Create Channel”并选择“PagerDuty”，通过一系列的配置即可完成PagerDuty和NewRelic的集成，从此以后，NewRelic的任何报警信息都会被发送到PagerDuty，并且通过邮件或者电话的方式对服务的负责人进行提醒。
 

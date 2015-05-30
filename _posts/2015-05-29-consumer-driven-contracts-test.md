@@ -44,6 +44,8 @@ tags: microservice, contracts test, pact
 
 假定某电商平台，作为消费方，它需要通过一个Product Service获取产品相关的信息。在消费方，我们需要定义一个model(Product类)来表示从Product Service返回回来的数据，以及一个客户端(Product Service Client)负责向Product Service发送HTTP请求。
 
+<img src="/assets/article_images/2015-05-29-consumer-driven-contracts-test/architecture.jpg"/>
+
 **在Online Shop(消费端)项目中**
 
 1. 从创建model开始

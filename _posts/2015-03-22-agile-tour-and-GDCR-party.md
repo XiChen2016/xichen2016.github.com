@@ -3,7 +3,6 @@ layout: post
 title: "2015全国敏捷之旅及GDCR组织者聚会总结"
 category: summary
 tags: agile tour, GDCR, code retreat, 敏捷之旅
-image: /assets/article_images/2015-03-22-agile-tour-and-GDCR-party/cover.jpg
 ---
 
 3月15号，也就是上周六，来自北京、上海、深圳、杭州、西安等全国10多个城市的60多位敏捷之旅以及GDCR(Global Day of Code Retreat)组织者齐聚蓉城-成都，作为2014年GDCR西安站的组织者，王磊，赵国庆和我参加了这次活动。
@@ -14,6 +13,9 @@ image: /assets/article_images/2015-03-22-agile-tour-and-GDCR-party/cover.jpg
 15号早上，我们按计划在9点之前赶到了位于成都天府软件园D区的稻城亚丁会议室，接下来的两天活动都将在这里举行。
 可能由于大家都是前一天晚上才到成都，9点过了还是有些成员才陆续到达会场，作为一群积极活跃的年轻人，我们当然不能就这么轻易放过一个破冰的好机会，于是大家很有默契的制定了两种惩罚措施，发红包 or 喝白酒。
 接下来的场面应该不难想象，很快大家就打成了一片，除了一队来自大连的朋友选择了喝酒之外(东北爷们儿果真豪爽)，其他迟到的人都心(bei)甘(bi)情(wu)愿(nai)的给大家发放了红包(这种群众喜闻乐见的破冰游戏值得在骚窝推广)。
+
+<img src="/assets/article_images/2015-03-22-agile-tour-and-GDCR-party/IMG_1543.jpg" width='50%' height='50%' />
+<img src="/assets/article_images/2015-03-22-agile-tour-and-GDCR-party/IMG_1544.jpg" width='28%' height='28%'/>
 
 就在大家乐此不疲地埋头抢红包时，本次活动的组织者之一Bob宣布活动正式开始，第一个环节是收集话题，每个人都可以把自己感兴趣的话题分享出来，然后依次上台介绍自己的话题(就是拉票)，话题类型不限，唯一的要求是具有可讨论性，原因是话题要作为小组全天讨论的topic。
 规则一出大家都忙活了起来，开始发布自己的topic，最后有30多个话题被提出来供大家投票。话题数量不及人数的主要原因我个人认为是由于那个唯一的要求，其实在去成都之前我心里也有好几个话题想和小伙伴们讨论，但是考虑到要用一天来讨论，我也临时更换了自己的话题(逼格很高的那种)。
@@ -26,6 +28,8 @@ image: /assets/article_images/2015-03-22-agile-tour-and-GDCR-party/cover.jpg
 下午又进行了两个Sprint，形式和早上类似，各组都对自己的话题进行了深入地讨论，值得一提的是，我们小组成立了敏捷亲子联盟，并且建立了微信群，大家决定活动结束后把我们的伟大事业发扬光大，最后很多小伙伴还分享了自己一天的收获以及对本次活动的想法。
 晚上的丰富活动在这里我就不透露了，不过在和小伙伴们的闲聊中，我发现ThoughtWorks在敏捷社区里的认可度还是很高的，大家提起ThoughtWorks的时候大都表示肯定的态度。
 
+<img src="/assets/article_images/2015-03-22-agile-tour-and-GDCR-party/IMG_1567.jpg" width='40%' height='40%' />
+<img src="/assets/article_images/2015-03-22-agile-tour-and-GDCR-party/IMG_1583.jpg" width='40%' height='40%'/>
 
 ### Day Two
 
@@ -34,6 +38,7 @@ image: /assets/article_images/2015-03-22-agile-tour-and-GDCR-party/cover.jpg
 同样是以海报的形式，各地都将2014年组织活动的经验和社区的发展情况作了总结，相比其他城市，西安的活动起步较晚，2014年只举办了一场GDCR，我们也把活动中遇到的问题以及收获给大家做了分享，从其他城市的介绍中我们也吸取了不少经验，计划在2015年，除了GDCR外，我们也将举办敏捷之旅以及Code Retreat China Day等活动，将西安的敏捷社区活动也丰富起来(有意愿加入的小伙伴请线下联系我们，吼吼~)。
 在活动接近尾声的时候，大家民主投票决定了下一年的聚会城市，当然，作为13朝古都，西安的呼声也是很高的，不过可能由于海鲜对吃货们无法抗拒的诱惑，聚会城市最终定在了大连(虽然不是西安，依旧很兴奋有木有，哈哈)。
 
+<img src="/assets/article_images/2015-03-22-agile-tour-and-GDCR-party/cover.jpg" width='80%' height='80%'/>
 
 ### 最后的最后
 
